@@ -30,7 +30,7 @@ body {
 
 /* SECTION */
 .section {
-  padding-top: 80px;
+  padding: 80px 10px 0;
 }
 
 .section h1 {
