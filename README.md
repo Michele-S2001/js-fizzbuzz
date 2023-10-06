@@ -23,3 +23,6 @@ Consegna: Scrivi un programma che stampi in console i numeri da 1 a 100, ma che 
   - poi associo una classe per stilizzarla
   - poi stampo il valore di n al suo interno
 - tramite il metodo .append genero le box all'interno del .grid element
+
+## BONUS 2
+- a seconda del valore stampato modifico i colori delle box
