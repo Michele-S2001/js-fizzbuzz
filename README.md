@@ -15,3 +15,11 @@ Consegna: Scrivi un programma che stampi in console i numeri da 1 a 100, ma che 
     - ALTRIMENTI SE (il modulo di n%3 è uguale a 0 )
       - allora stampa "Fizz"
   - stampa n in console
+
+
+## BONUS 1 
+- recupero l'elemento .grid dal DOM
+- creo un elemento box
+  - poi associo una classe per stilizzarla
+  - poi stampo il valore di n al suo interno
+- tramite il metodo .append genero le box all'interno del .grid element
